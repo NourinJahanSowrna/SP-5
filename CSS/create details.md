@@ -1,3 +1,2 @@
-CSS basic freecodecamp
-
+css basic freecodecamp
 
